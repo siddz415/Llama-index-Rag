@@ -12,5 +12,5 @@ This project is a chat engine that uses MongoDB for data storage and retrieval, 
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your_username/llama-index-rag.git
+   git clone https://github.com/siddz415/llama-index-rag.git
    cd llama-index-rag
